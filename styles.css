@@ -1,5 +1,5 @@
 body{
-	margin:50px 120px;
+	margin:50px 60px;
 	font-size: 14pt;
 }
 
@@ -7,13 +7,13 @@ h1{
 	font-weight: bold;
 	padding-bottom:5px;
 	border-bottom:2px solid #000000;
-	margin-right: 500px;
+	margin-right: 400px;
 }
 
 img {
     position: absolute;
-    left: 580px;
-    top: 35px;
+    left: 650px;
+    top: 30px;
     height: 260px;
     width: 180px;
     border: solid 5px #002940;
@@ -34,18 +34,19 @@ img {
 	font-size:20px;
 	font-weight:bold;
 	float: left;
-	padding:20px;
-	border-right:2px solid #a6a6a6;
+
 }
 
 #details{
 	float:left;
-	margin-left:20px;
-	padding-left:20px;
+	margin-left:30px;
+	padding-left:40px;
+	border-left:2px solid #a6a6a6;
 }
 
 
 
 div{
+	margin:10px;
 	clear:both;
 }
